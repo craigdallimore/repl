@@ -232,6 +232,11 @@
   margin : 0;
 }
 
+.repl-console-log:empty,
+.repl-error:empty {
+  margin : 0;
+}
+
 .repl-console-log {
   color: #6272a4;
 }
